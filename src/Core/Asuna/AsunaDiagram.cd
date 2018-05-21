@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XCollection&lt;T&gt;" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIAAAAIIAAAQBAECAAABAQAAAAAAAAAACAAAAAQAAE=</HashCode>
+      <FileName>Asuna\XCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XCommoner" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAE=</HashCode>
+      <FileName>Asuna\XCommoner.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XData" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBAEKAAERAQQAAGAABIAAQFgAAAAAAA=</HashCode>
+      <FileName>Asuna\XData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.SAOUUtils" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAIACAAAAAAAAAAAAAAAhAAAAIBAAAAAAQAAAA=</HashCode>
+      <FileName>Asuna\XDataUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XList&lt;T&gt;" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIAAAAAAAAAQBAECAAAAAQAAAAAAAAACCAAAAAAAAE=</HashCode>
+      <FileName>Asuna\XList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XNpc" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABIAAAAAAACAEIAQIAAAAAAAEAAACIAAAAAAAAAA=</HashCode>
+      <FileName>Asuna\XNpc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nameless.Libraries.Yggdrasil.Asuna.XUniqueCollection" Collapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCIgAAAAAAAAABAACAAABAQAAAAAAAAAACAAAAAQAAE=</HashCode>
+      <FileName>Asuna\XUniqueCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Nameless.Libraries.Yggdrasil.Asuna.XAttributeEntry" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAEAAAAAEAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Asuna\XAttributeEntry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Interface Name="Nameless.Libraries.Yggdrasil.Asuna.INerveGearXml" Collapsed="true">
+    <Position X="13.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Asuna\INerveGearXml.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
